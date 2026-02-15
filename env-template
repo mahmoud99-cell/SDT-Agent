@@ -1,0 +1,9 @@
+# if not working generate a new one
+GOOGLE_API_KEY=AIzaSyBF22HuCzLYGyYMeLI6fTwluljVWD_HHi0
+
+GITHUB_BRANCH=main # Default branch for commits
+GITHUB_BASE_BRANCH=main  # Default branch for PRs
+
+# specify the GitHub token for direct authentication (Mandatory from your account !!)
+GITHUB_TOKEN="your_github_personal_access_token_here"
+
